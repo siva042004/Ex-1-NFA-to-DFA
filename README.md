@@ -3,8 +3,8 @@
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 
 # Date: 07.02.24
-# NAME: Akash A
-# REGISTER NUMBER: 212221040010
+# NAME: sivaragul.m
+# REGISTER NUMBER: 212221040155
 ## Aim
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
 Deterministic Finite Automaton (DFA).
